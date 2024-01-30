@@ -1,0 +1,1 @@
+Знакомлюсь с созданием телеграм бота по: `https://mastergroosha.github.io/aiogram-3-guide/`
